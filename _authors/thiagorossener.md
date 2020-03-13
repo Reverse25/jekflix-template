@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: 
 name:sayak
 display_name: sayak
 position: CTF solver
